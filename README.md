@@ -1,4 +1,4 @@
-# Sistema-de-Gestion-de-Residuos-Solidos
+# Sistema-de-Gestion-de-Residuos-Solidos Desarrollado en Python con Flet
 Sistema de Gestión de Residuos Solidos
 
 
