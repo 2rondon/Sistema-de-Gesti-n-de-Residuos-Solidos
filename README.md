@@ -9,6 +9,6 @@ Sistema de Gestión de Residuos Solidos
 
 ![image alt](https://github.com/2rondon/Sistema-de-Gesti-n-de-Residuos-Solidos/blob/3dc5f022deaa220819d336710c96b89cd5395f1a/imagen/personal.png)
 
-![image alt]()
+![image alt](https://github.com/2rondon/Sistema-de-Gesti-n-de-Residuos-Solidos/blob/32b59df14d38057fc443bae8481049795c9b3db4/imagen/Residuos.png)
 
 ![image alt]()
